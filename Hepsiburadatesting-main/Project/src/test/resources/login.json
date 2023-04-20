@@ -1,0 +1,43 @@
+[
+  {
+    "key": "anasayfa",
+    "androidValue": "//android.widget.FrameLayout[@content-desc=\"Anasayfam\"]/android.widget.FrameLayout/android.widget.ImageView",
+    "androidType": "xpath"
+  },
+  {
+  "key": "girisYapCheckButton",
+  "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[1]",
+  "androidType" : "xpath"
+},
+  {
+    "key": "girisEkranıGirisYapButton",
+    "androidValue": "btnLogin",
+    "androidType" : "id"
+  },
+  {
+    "key": "epostaGirisBox",
+    "androidValue": "txtUserName",
+    "androidType" : "id"
+  },
+  {
+    "key" : "sifreGirisSayfa",
+    "androidValue" : "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View",
+    "androidType" : "xpath"
+
+  },
+  {
+    "key": "sifreGirisBox",
+    "androidValue" :"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View/android.view.View[4]/android.view.View/android.widget.EditText",
+    "androidType" :"xpath"
+  },
+  {
+    "key": "girisPopup",
+    "androidValue": "com.pozitron.hepsiburada:id/alertTitle",
+    "androidType": "id"
+  },
+  {
+    "key": "girisPopupButton",
+    "androidValue": "android:id/button1",
+    "androidType" : "id"
+  }
+]

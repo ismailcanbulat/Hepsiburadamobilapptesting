@@ -1,0 +1,10 @@
+Created by testinium on 20.04.2023
+
+This is a concept file with following syntax for each concept.
+ # HepsiBurada anasayfadan ürün arama
+
+        *"Anasayfa" xpath'li element gorunur olana kadar bekle
+        *"anasayfaAramabutonu" li element gorunur olana kadar bekle
+        *"anasayfaAramabutonu" id'li elemente tikla
+        *"anasayfaAramabutonu" id'li elemente "ceket" text degerini gonder
+        *"searchbutonu" li element gorunur olana kadar bekle

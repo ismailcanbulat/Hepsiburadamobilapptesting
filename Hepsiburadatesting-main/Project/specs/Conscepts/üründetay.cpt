@@ -1,0 +1,9 @@
+Created by testinium on 20.04.2023
+
+This is a concept file with following syntax for each concept.
+ # sipariş detay inceleme
+        *"sepetimicon" xpath'li elemente tikla
+        *"seçiliürünclick" xpath'li element gorunur olana kadar bekle
+        *"seçiliürünclick" xpath'li elemente tikla
+        *"siparişdetay" xpath'li element gorunur olana kadar bekle
+        *"fiyatpenceresi" xpath'li elemente tikla

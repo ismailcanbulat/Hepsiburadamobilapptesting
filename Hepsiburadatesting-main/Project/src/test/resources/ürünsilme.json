@@ -1,0 +1,40 @@
+[
+  {
+    "key": "sepetimicon",
+    "androidValue"  : "//android.widget.FrameLayout[@content-desc=\"Sepetim, 2 new notifications\"]/android.widget.FrameLayout/android.widget.ImageView",
+    "androidType"   : "xpath"
+  },{
+  "key": "seçiliürünclick",
+  "androidValue"  : "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View/android.view.View[2]/android.view.View[9]/android.view.View[1]/android.widget.Button/android.widget.Image",
+  "androidType" : "xpath"
+},
+  {
+    "key": "siparişdetay",
+    "androidValue"  : "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[9]/android.view.View[4]/android.view.View[2]",
+    "androidType"   : "xpath"
+  },{
+  "key" : "fiyatpenceresi",
+  "androidValue"  : "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[9]/android.view.View[1]/android.widget.Button/android.view.View[2]/android.view.View",
+  "androidType"   : "xpath"
+},
+  {
+    "key" : "siparisionaylabutton",
+    "androidValue"  : "continue_step_btn",
+    "androidType"  : "id"
+  },
+  {
+    "key": "yeniadreseklebutton",
+    "androidValue"  : "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[2]/android.webkit.WebView/android.webkit.WebView/android.view.View[1]/android.view.View/android.view.View[2]/android.view.View",
+    "androidType"   : "xpath"
+  },
+  {
+    "key": "backbutton",
+    "androidValue"  : "com.pozitron.hepsiburada:id/ivToolbarBack",
+    "androidType" :  "id"
+  },
+  {
+    "key": "ürünsilmebutton",
+    "androidValue"  : "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View/android.view.View[2]/android.view.View[1]/android.view.View[1]/android.widget.ListView[1]/android.view.View/android.view.View/android.view.View[5]/android.view.View[1]/android.widget.Image",
+    "androidType" : "xpath"
+  }
+]

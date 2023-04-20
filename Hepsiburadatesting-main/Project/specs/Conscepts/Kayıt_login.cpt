@@ -1,0 +1,32 @@
+Created by testinium on 20.04.2023
+
+This is a concept file with following syntax for each concept.
+# HepsiBurada açılır , anasayfaya gidildiği kontrol edilir
+
+    * "Anasayfa" xpath'li element gorunur olana kadar bekle
+
+
+# HepsiBurada anasayfasından kullanıcı sayfasına gidilir , kayıt olunur
+       * "KullanıcıButonu" id'li elemente tikla
+       * "ÜyeolButonu" xpath'li element gorunur olana kadar bekle
+       * "ÜyeolButonu" xpath'li elemente tikla
+       * "KayıtEpostaBox" id'li elemente "ismail.canbulat@testinium.com" text degerini gonder
+       * "üyeOlDevamEtButton" id'li elemente tikla
+       // doğrulama kodu gibi devam işlemleri email doğrulama sebebiyle devam edilemedi .
+       üye olunmuş gibi devam edildi. //
+
+# HepsiBurada anasayfasından login olunur
+
+        *"KullanıcıButonu" li element gorunur olana kadar bekle
+        *"KullanıcıButonu" id'li elemente tikla
+        *"girisYapCheckButton"xpath'li elemente tikla
+        *"2" saniye kadar bekle
+        *"epostaGirisBox" id'li elemente tikla
+        *"epostaGirisBox" id'li elemente "ismail.canbulat@testinium.com" text degerini gonder
+        *"sifreGirisSayfa" li element gorunur olana kadar bekle
+        *"sifreGirisBox"  id'li elemente "ismailcaN1" text degerini gonder
+        *"girisPopup"  li element gorunur olana kadar bekle
+        *"girisPopupButton" id'li elemente tikla
+        *"hesabımSayfası" xpath'li element gorunur olana kadar bekle
+        *"hesabımSayfamıKapat" id'li elemente tikla
+

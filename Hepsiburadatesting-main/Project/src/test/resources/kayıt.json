@@ -1,0 +1,27 @@
+[
+  {
+  "key": "anasayfa",
+  "androidValue": "//android.widget.FrameLayout[@content-desc=\"Anasayfam\"]/android.widget.FrameLayout/android.widget.ImageView",
+  "androidType": "xpath"
+},
+{
+   "key": "kullanıcıButonu",
+   "androidValue":"com.pozitron.hepsiburada:id/account_menu_button",
+"androidType": "id"
+},
+{
+"key": "üyeolButonu",
+"androidValue": "//android.view.ViewGroup[@content-desc=\"account_menu_button_0\"]/android.view.ViewGroup/android.widget.Button",
+"androidType": "xpath"
+},
+{
+"key":"kayıtEpostaBox",
+"androidValue": "txtEmail",
+"androidType":"id"
+},
+{
+"key": "üyeOlDevamEtButton",
+"androidValue":"btnSignUpSubmit",
+"androidType" : "id"
+}
+  ]

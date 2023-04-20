@@ -1,0 +1,13 @@
+Created by testinium on 20.04.2023
+
+This is a concept file with following syntax for each concept.
+# Favorilere ürün ekleme
+
+        *"ilkürün" xpath'li elemente tikla
+        *"beğenmeicon" li elementin oldugu kontrol edilir
+        *"beğenmeicon" id'li elemente tikla
+        *"favorilereeklendipopup" li element gorunur olana kadar bekle
+        *"2" sec saniye kadar bekle
+        *"ikinciürün" xpath'li elemente tikla
+        *"beğenmeicon" li elementin oldugu kontrol edilir
+        *"beğenmeicon" id'li elemente tikla

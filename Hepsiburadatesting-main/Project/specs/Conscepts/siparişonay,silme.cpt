@@ -1,0 +1,11 @@
+Created by testinium on 20.04.2023
+
+This is a concept file with following syntax for each concept.
+# siparişi onaylama ve sepetten ürün silme
+        *"siparisionaylabutton" li element gorunur olana kadar bekle
+        *"siparisionaylabutton" id'li elemente tikla
+        *"yeniadreseklebutton" xpath'li element gorunur olana kadar bekle
+        *"2" saniye kadar bekle
+        *"backbutton" xpath'li element gorunur olana kadar bekle
+        *"backbutton" xpath'li elemente tikla
+        *"ürünsilmebutton" xpath'li elemente tikla

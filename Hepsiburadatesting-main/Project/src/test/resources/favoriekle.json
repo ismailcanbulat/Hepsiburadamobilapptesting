@@ -1,0 +1,12 @@
+[
+  {
+    "key" : "beğenmeicon",
+    "androidValue" : "com.pozitron.hepsiburada:id/tvContent",
+    "androidType"  : "id"
+  },
+  {
+    "key": "favorilereeklendipopup",
+    "androidValue" :"com.pozitron.hepsiburada:id/containerLineField",
+    "androidType" :"id"
+  }
+]

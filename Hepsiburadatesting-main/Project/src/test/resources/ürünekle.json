@@ -1,0 +1,32 @@
+[
+  {
+    "key": "userbutton",
+    "androidValue"  : "com.pozitron.hepsiburada:id/iv_toolbar_user_account_menu",
+    " androidType"  : "id"
+  },
+  {
+    "key": "beğendiklerimbutton",
+    "androidValue"  : "//android.view.ViewGroup[@content-desc=\"account_menu_5\"]/android.widget.TextView",
+    "androidType"   : "xpath"
+  },
+  {
+    "key": "beğendiklerimsayfa",
+    "androidValue"  : "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup",
+    "androidType"   : "xpath"
+  },
+  {
+    "key" : "ilkürünsepeteekle",
+    "androidValue"  : "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1]/android.webkit.WebView/android.webkit.WebView/android.view.View/android.widget.ListView/android.view.View[1]/android.widget.Button",
+    "androidType"   : "xpath"
+  },
+  {
+    "key" : "ikinciürünsepeteekle",
+    "androidValue"  : "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1]/android.webkit.WebView/android.webkit.WebView/android.view.View[1]/android.widget.ListView/android.view.View[2]/android.widget.Button",
+    "androidType"   : "xpath"
+  },
+  {
+    "key": "sepeteeklendipopup",
+    "androidValue" : "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1]/android.webkit.WebView/android.webkit.WebView/android.view.View[2]/android.view.View",
+    "androidType"  : "xpath"
+  }
+]

@@ -1,0 +1,12 @@
+Created by testinium on 20.04.2023
+
+This is a concept file with following syntax for each concept.
+# Ürünleri sepete ekleme
+        *"userbutton" id'li element varsa tikla
+        *"beğendiklerimbutton" xpath'li element gorunur olana kadar bekle
+        *"beğendiklerimbutton" xpath'li elemente tikla
+        *"beğendiklerimsayfa" xpath'li element gorunur olana kadar bekle
+        *"ilkürünsepeteekle" xpath'li elemente tikla
+        *"ikinciürünsepeteekle" xpath'li elemente tikla
+        *"sepeteeklendipopup" xpath'li element gorunur olana kadar bekle
+        *"2" saniye kadar bekle
